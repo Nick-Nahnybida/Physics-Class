@@ -1,0 +1,11 @@
+C:\Users\nn137422\Documents\Visual Basic\Physics Class\Physics Class\bin\Debug\Physics Class.exe.config
+C:\Users\nn137422\Documents\Visual Basic\Physics Class\Physics Class\bin\Debug\Physics Class.exe
+C:\Users\nn137422\Documents\Visual Basic\Physics Class\Physics Class\bin\Debug\Physics Class.pdb
+C:\Users\nn137422\Documents\Visual Basic\Physics Class\Physics Class\bin\Debug\Physics Class.xml
+C:\Users\nn137422\Documents\Visual Basic\Physics Class\Physics Class\obj\Debug\Physics_Class.Form1.resources
+C:\Users\nn137422\Documents\Visual Basic\Physics Class\Physics Class\obj\Debug\Physics_Class.Resources.resources
+C:\Users\nn137422\Documents\Visual Basic\Physics Class\Physics Class\obj\Debug\Physics Class.vbproj.GenerateResource.Cache
+C:\Users\nn137422\Documents\Visual Basic\Physics Class\Physics Class\obj\Debug\Physics Class.exe
+C:\Users\nn137422\Documents\Visual Basic\Physics Class\Physics Class\obj\Debug\Physics Class.xml
+C:\Users\nn137422\Documents\Visual Basic\Physics Class\Physics Class\obj\Debug\Physics Class.pdb
+C:\Users\nn137422\Documents\Visual Basic\Physics Class\Physics Class\obj\Debug\Physics Class.vbprojResolveAssemblyReference.cache
